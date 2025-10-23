@@ -35,6 +35,7 @@ pkgs.mkShell {
     radare2
     steghide
     zsteg
+    stegseek
 
     # -------- Forensics -----------
     autopsy
